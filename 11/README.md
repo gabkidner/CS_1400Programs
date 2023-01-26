@@ -1,0 +1,1 @@
+Make a program that reverses a message. Create a String method for reversing the message called 'reverse' that should return the message String reversed. **Print the reversed String from the main method.** The 'reverse' method should only have one parameter - the message.
